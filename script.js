@@ -1,29 +1,52 @@
 $(document).ready(function(){
+
+	var open_categ = "";
+
 	$("#petitions_link").click(function(){
-		$(".protest").fadeOut();
-		$(".donation").fadeOut();
-		$(".business").fadeOut();
-		$(".petition").fadeIn();
+		if(open_categ !== "petitions"){
+			$(".list_ent:visible").fadeOut().promise().done(function(){
+				$(".petition").fadeIn();
+			});
+			open_categ = "petitions";
+		}else{
+			open_categ = "";
+			$(".petition").fadeOut();
+		}
 	});
 
 	$("#protests_link").click(function(){
-		$(".donation").fadeOut();
-		$(".business").fadeOut();
-		$(".petition").fadeOut();
-		$(".protest").fadeIn();
+		if(open_categ !== "protests"){
+			$(".list_ent:visible").fadeOut().promise().done(function(){
+				$(".protest").fadeIn();
+			});
+			open_categ = "protests";
+		}else{
+			open_categ = "";
+			$(".protest").fadeOut();
+		}
 	});
 
 	$("#donations_link").click(function(){
-		$(".business").fadeOut();
-		$(".petition").fadeOut();
-		$(".protest").fadeOut();
-		$(".donation").fadeIn();
+		if(open_categ !== "donations"){
+			$(".list_ent:visible").fadeOut().promise().done(function(){
+				$(".donation").fadeIn();
+			});
+			open_categ = "donations";
+		}else{
+			open_categ = "";
+			$(".donation").fadeOut();
+		}
 	});
 
 	$("#businesses_link").click(function(){
-		$(".petition").fadeOut();
-		$(".protest").fadeOut();
-		$(".donation").fadeOut();
-		$(".business").fadeIn();
+		if(open_categ !== "businesses"){
+			$(".list_ent:visible").fadeOut().promise().done(function(){
+				$(".business").fadeIn();
+			});
+			open_categ = "businesses";
+		}else{
+			open_categ = "";
+			$(".business").fadeOut();
+		}
 	});
 });
