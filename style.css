@@ -34,7 +34,7 @@
 	top: 10vh;
 
 	position: sticky;
-	z-index: -1;
+	z-index: -2;
 
 	opacity: 1;
 
@@ -65,11 +65,19 @@
 .petition {
 	width: 100%;
 	display: none;
+	color: #CCCCCC;
 }
 
 .donation {
 	width: 100%;
 	display: none;
+	color: #CCCCCC;
+}
+
+.contact {
+	width: 100%;
+	display: none;
+	color: #CCCCCC;
 }
 
 .d_org {
@@ -78,6 +86,7 @@
 
 .sect_head {
 	font-weight: bold;
+	color: #CCCCCC;
 }
 
 #main {
@@ -85,6 +94,12 @@
 	margin-top: -60vmin;
 	height: 45vh;
 	overflow-y: scroll;
+}
+
+.rolling {
+	display: none;
+	position: absolute;
+	z-index: -1;
 }
 
 ::-webkit-scrollbar {

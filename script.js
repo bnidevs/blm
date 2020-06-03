@@ -49,4 +49,20 @@ $(document).ready(function(){
 			$(".business").fadeOut();
 		}
 	});
+
+	$("#contact_link").click(function(){
+		if(open_categ !== "contact"){
+			$(".list_ent:visible").fadeOut().promise().done(function(){
+				$(".contact").fadeIn();
+			});
+			open_categ = "contact";
+		}else{
+			open_categ = "";
+			$(".contact").fadeOut();
+		}
+	});
+
+	var getRand = (start, range) => {
+		return (start + Math.floor(range * Math.random()));
+	}
 });
