@@ -1,0 +1,29 @@
+.hvr_ul {
+    display: inline-block;
+}
+
+.hvr_ul:after {
+    display: block;
+    content: '';
+    border-bottom: solid 3px #ffffff;  
+    transform: scaleX(0);  
+    transition: transform 250ms ease-in-out;
+    transform-origin:  0% 50%;
+}
+
+.hvr_ul:hover:after {
+    transform: scaleX(1);
+}
+
+.selected {
+    border-bottom: solid 3px #ffffff; 
+}
+
+.fade_in {
+    animation: fade 2s linear;
+}
+
+@keyframes fade {
+    0% { opacity: 0 }
+    100% { opacity: 1 }
+}
