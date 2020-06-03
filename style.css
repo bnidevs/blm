@@ -13,7 +13,7 @@
 }
 
 .no_x_scroll {
-	overflow-x: hidden
+	overflow: hidden;
 }
 
 .stick_together {
@@ -64,11 +64,12 @@
 
 .petition {
 	width: 100%;
+	display: none;
 }
 
 #main {
 	width: 97vw;
-	margin-top: -50vmin;
+	margin-top: -60vmin;
 }
 
 a {
