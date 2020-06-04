@@ -86,6 +86,12 @@
 	color: #CCCCCC;
 }
 
+.business {
+	width: 100%;
+	display: none;
+	color: #CCCCCC;
+}
+
 .outer_note {
 	width: 97vw;
 }
