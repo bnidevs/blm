@@ -118,15 +118,10 @@
 	z-index: -1;
 }
 
-.rotating {
-	font-weight: 700;
-	font-size: 5vh;
-	color: #CCCCCC;
-
-	margin-top: -30vmin;
-	width: 50vmax;
-
-	z-index: 0;
+.arm {
+	height: 19vmin;
+	padding-left: 1vmax;
+	padding-right: 1vmax;
 }
 
 ::-webkit-scrollbar {
