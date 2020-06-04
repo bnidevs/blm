@@ -74,10 +74,20 @@
 	color: #CCCCCC;
 }
 
+.protest {
+	width: 100%;
+	display: none;
+	color: #CCCCCC;
+}
+
 .contact {
 	width: 100%;
 	display: none;
 	color: #CCCCCC;
+}
+
+.outer_note {
+	width: 97vw;
 }
 
 .d_org {
@@ -100,6 +110,17 @@
 	display: none;
 	position: absolute;
 	z-index: -1;
+}
+
+.rotating {
+	font-weight: 700;
+	font-size: 5vh;
+	color: #CCCCCC;
+
+	margin-top: -30vmin;
+	width: 50vmax;
+
+	z-index: 0;
 }
 
 ::-webkit-scrollbar {
