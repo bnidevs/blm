@@ -96,6 +96,12 @@
 	color: #CCCCCC;
 }
 
+.learn {
+	width: 100%;
+	display: none;
+	color: #CCCCCC;
+}
+
 .outer_note {
 	width: 97vw;
 }

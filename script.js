@@ -62,4 +62,16 @@ $(document).ready(function(){
 			$(".contact").fadeOut();
 		}
 	});
+
+	$("#learn_link").click(function(){
+		if(open_categ !== "learn"){
+			$(".list_ent:visible").fadeOut().promise().done(function(){
+				$(".learn").fadeIn();
+			});
+			open_categ = "learn";
+		}else{
+			open_categ = "";
+			$(".learn").fadeOut();
+		}
+	});
 });

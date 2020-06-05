@@ -95,6 +95,12 @@
 	color: #CCCCCC;
 }
 
+.learn {
+	width: 100%;
+	display: none;
+	color: #CCCCCC;
+}
+
 .outer_note {
 	width: 90vw;
 	padding-left: 5vw;
