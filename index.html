@@ -2,7 +2,8 @@
 
 	<head>
 
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" media="screen and (min-device-width: 800px)" href="style.css">
+		<link rel="stylesheet" media="screen and (max-device-width: 800px)" href="mobile.css">
 		<link rel="stylesheet" href="animation.css">
 		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 		<link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Black_colour.jpg/1920px-Black_colour.jpg">
@@ -16,10 +17,10 @@
 	<body class="bkgrd no_x_scroll">
 
 		<div class="nav fade_in text_right">
-			<a id="protests_link" class="nav_link hvr_ul">Protests</a>
-			<a id="petitions_link" class="nav_link hvr_ul">Petitions</a>
-			<a id="donations_link" class="nav_link hvr_ul">Donations</a>
-			<a id="businesses_link" class="nav_link hvr_ul">Businesses</a>
+			<a id="protests_link" class="nav_link hvr_ul">Protests</a><br class="mobile_only">
+			<a id="petitions_link" class="nav_link hvr_ul">Petitions</a><br class="mobile_only">
+			<a id="donations_link" class="nav_link hvr_ul">Donations</a><br class="mobile_only">
+			<a id="businesses_link" class="nav_link hvr_ul">Businesses</a><br class="mobile_only">
 			<a id="contact_link" class="nav_link hvr_ul">Contact</a>
 		</div>
 
@@ -34,7 +35,7 @@
 				MATTER
 			</div>
 
-			<div style="margin-top: 10vh; margin-left: 10vw; font-weight: 400; font-size: 5vh; color: #FFFFFF;">
+			<div id="dev_tag">
 				STILL IN DEVELOPMENT
 			</div>
 		</div>

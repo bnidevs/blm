@@ -3,7 +3,7 @@
 }
 
 .stick_left {
-	margin-left: -2vmax;
+	margin-left: -2vw;
 	padding-left: 0;
 }
 
@@ -19,19 +19,20 @@
 .stick_together {
 	padding-bottom: 0;
 	padding-top: 0;
-	margin-bottom: -10vmin;
+	margin-bottom: -3vmin;
 }
 
 .nav_link {
-	padding-right: 5vw;
+	padding-right: 1vw;
 }
 
 .open_txt {
 	font-weight: 900;
 	color: #272727;
-	font-size: 25vmin;
+	font-size: 8vh;
 
-	top: 10vh;
+	top: 1vh;
+	margin-top: -22vh;
 
 	position: sticky;
 	z-index: -2;
@@ -39,10 +40,6 @@
 	opacity: 1;
 
 	padding-bottom: 0;
-}
-
-.mobile_only {
-	display: none;
 }
 
 .spacer {
@@ -53,6 +50,7 @@
 
 .nav {
 	font-weight: 600;
+	font-size: 3vh;
 
 	padding-top: 3vh;
 
@@ -97,7 +95,9 @@
 }
 
 .outer_note {
-	width: 97vw;
+	width: 90vw;
+	padding-left: 5vw;
+	padding-right: 5vw;
 }
 
 .d_org {
@@ -110,9 +110,11 @@
 }
 
 #main {
-	width: 97vw;
-	margin-top: -60vmin;
-	height: 45vh;
+	width: 90vw;
+	margin-top: -68vh;
+	padding-left: 5vw;
+	padding-right: 5vw;
+	height: 55vh;
 	overflow-y: scroll;
 }
 
@@ -123,22 +125,22 @@
 }
 
 .arm {
-	height: 19vmin;
+	height: 7vh;
 	padding-left: 1vmax;
 	padding-right: 1vmax;
-}
-
-#dev_tag {
-	margin-top: 10vh; 
-	margin-left: 10vw; 
-	font-weight: 400; 
-	font-size: 5vh;
-	color: #FFFFFF;
 }
 
 ::-webkit-scrollbar {
 	width: 0px;
 	background: transparent;
+}
+
+#dev_tag {
+	margin-top: 68vh; 
+	margin-left: 10vw; 
+	font-weight: 400; 
+	font-size: 3vh;
+	color: #FFFFFF;
 }
 
 a {
