@@ -13,7 +13,8 @@
 }
 
 .no_x_scroll {
-	overflow: hidden;
+	overflow-x: hidden;
+	overflow-y: auto;
 }
 
 .stick_together {
