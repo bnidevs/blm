@@ -131,9 +131,9 @@
 #dev_tag {
 	margin-top: 10vh; 
 	margin-left: 10vw; 
-	font-weight: 400; 
-	font-size: 5vh;
-	color: #FFFFFF;
+	font-weight: 400 !important;
+	font-size: 5vh !important;
+	color: #FFFFFF !important;
 }
 
 ::-webkit-scrollbar {
