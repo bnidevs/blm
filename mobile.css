@@ -116,6 +116,8 @@
 	padding-right: 5vw;
 	height: 45vh;
 	overflow-y: scroll;
+
+	font-size: 3vh;
 }
 
 .rolling {
