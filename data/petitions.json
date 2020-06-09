@@ -1,0 +1,328 @@
+{
+    "items": {
+        "petitions": [
+            {
+                "name": "George Floyd",
+                "link": "http://chng.it/cBZGrTqcCf "
+            },
+            {
+                "name": "Raise the Degree",
+                "link": "http://chng.it/r4HRXVrPpw "
+            },
+            {
+                "name": "Charge All Four Officers",
+                "link": "http://chng.it/rHk8x82f2L "
+            },
+            {
+                "name": "Breonna Taylor",
+                "link": "http://chng.it/Gsnk24M8vT "
+            },
+            {
+                "name": "Ahmaud Arbery",
+                "link": "http://chng.it/kpC4LJjtHX "
+            },
+            {
+                "name": "Regis Korchinski-Paquet",
+                "link": "http://chng.it/rKgYV6MJRX "
+            },
+            {
+                "name": "Tony McDade",
+                "link": "http://chng.it/zqCVm9Z4Bn "
+            },
+            {
+                "name": "Jo&#257;o Pedro",
+                "link": "http://chng.it/wMDQ2yq8dk "
+            },
+            {
+                "name": "Julius Jones",
+                "link": "http://chng.it/2GNJ6jR8QZ "
+            },
+            {
+                "name": "Belly Mujinga",
+                "link": "http://chng.it/4vQ5Q9kgHR "
+            },
+            {
+                "name": "Willie Simmons",
+                "link": "http://chng.it/pBTS4sccHH "
+            },
+            {
+                "name": "Kyjuanzi Harris",
+                "link": "http://chng.it/QHrrkWJf6c "
+            },
+            {
+                "name": "Alejandro Vargas Martinez",
+                "link": "http://chng.it/GnwbGj4t9W "
+            },
+            {
+                "name": "Sean Reed",
+                "link": "http://chng.it/B5hwbsng2p "
+            },
+            {
+                "name": "Tamir Rice",
+                "link": "http://chng.it/xYqkCXGRzD "
+            },
+            {
+                "name": "Darrius Stewart",
+                "link": "http://chng.it/c5cpzTgfcw "
+            },
+            {
+                "name": "Chrystul Kizer",
+                "link": "http://chng.it/rS8VZVRhRB "
+            },
+            {
+                "name": "Andile Mchunu",
+                "link": "http://chng.it/fPf2xNqtgk "
+            },
+            {
+                "name": "Eric Riddick",
+                "link": "http://chng.it/ybPSVJ7w2Y "
+            },
+            {
+                "name": "Amiya Braxton",
+                "link": "http://chng.it/YWfJJhyG8L "
+            },
+            {
+                "name": "Emerald Black",
+                "link": "http://chng.it/nFbZCGzfPc "
+            },
+            {
+                "name": "Elijah Nichols",
+                "link": "http://chng.it/X7pQyrm6sc "
+            },
+            {
+                "name": "Zinedine Karabo Gioia",
+                "link": "http://chng.it/yx2RCGT65c "
+            },
+            {
+                "name": "Angel Bumpass",
+                "link": "http://chng.it/Cx7jHbK5N7 "
+            },
+            {
+                "name": "Sheku Bayoh",
+                "link": "http://chng.it/fQ4w7kpmHD "
+            },
+            {
+                "name": "Abolish Prison Labor",
+                "link": "http://chng.it/FVwGkyDYnK "
+            },
+            {
+                "name": "Life Sentence for Police Brutality",
+                "link": "http://chng.it/v2X5ZxPc6g "
+            },
+            {
+                "name": "Hands Up Act",
+                "link": "http://chng.it/sqgDsq9fNK "
+            },
+            {
+                "name": "National Action against Police Brutality and Murder",
+                "link": "http://chng.it/RYCnrKc6dx "
+            },
+            {
+                "name": "Require Psychological Screenings and IAT for Police",
+                "link": "http://chng.it/RKCtXNHW5H "
+            }
+        ],
+        "legislation": [
+            {
+                "state": "Alabama",
+                "link": "http://www.legislature.state.al.us/aliswww/ISD/Splash_Senate.aspx "
+            },
+            {
+                "state": "Alaska",
+                "link": "http://akleg.gov/senate.php "
+            },
+            {
+                "state": "Arizona",
+                "link": "https://www.azsenate.gov/ "
+            },
+            {
+                "state": "Arkansas",
+                "link": "https://senate.arkansas.gov/ "
+            },
+            {
+                "state": "California",
+                "link": "https://www.senate.ca.gov/ "
+            },
+            {
+                "state": "Colorado",
+                "link": "https://leg.colorado.gov/agencies/senate "
+            },
+            {
+                "state": "Connecticut",
+                "link": "https://cga.ct.gov/asp/menu/senate.asp "
+            },
+            {
+                "state": "Delaware",
+                "link": "https://legis.delaware.gov/Senate "
+            },
+            {
+                "state": "Florida",
+                "link": "https://www.flsenate.gov/ "
+            },
+            {
+                "state": "Georgia",
+                "link": "http://www.senate.ga.gov/en-US/default.aspx "
+            },
+            {
+                "state": "Hawaii",
+                "link": "https://www.capitol.hawaii.gov/senate.aspx "
+            },
+            {
+                "state": "Idaho",
+                "link": "https://legislature.idaho.gov/senate/ "
+            },
+            {
+                "state": "Illinois",
+                "link": "http://senategop.state.il.us/ "
+            },
+            {
+                "state": "Indiana",
+                "link": "http://iga.in.gov/legislative/2020/senate "
+            },
+            {
+                "state": "Iowa",
+                "link": "https://www.legis.iowa.gov/legislators/senate "
+            },
+            {
+                "state": "Kansas",
+                "link": "http://kslegislature.org/li_2018/b2017_18/chamber/senate/ "
+            },
+            {
+                "state": "Kentucky",
+                "link": "https://legislature.ky.gov/Legislators/senate "
+            },
+            {
+                "state": "Louisiana",
+                "link": "http://senate.la.gov/ "
+            },
+            {
+                "state": "Maine",
+                "link": "http://legislature.maine.gov/senate/ "
+            },
+            {
+                "state": "Maryland",
+                "link": "https://msa.maryland.gov/msa/mdmanual/05sen/html/sen.html "
+            },
+            {
+                "state": "Massachusetts",
+                "link": "https://malegislature.gov/Legislators/Senate "
+            },
+            {
+                "state": "Michigan",
+                "link": "https://senate.michigan.gov/ "
+            },
+            {
+                "state": "Minnesota",
+                "link": "https://www.senate.mn/ "
+            },
+            {
+                "state": "Mississippi",
+                "link": "http://www.legislature.ms.gov/legislators/senators/ "
+            },
+            {
+                "state": "Missouri",
+                "link": "https://www.senate.mo.gov/ "
+            },
+            {
+                "state": "Montana",
+                "link": "https://leg.mt.gov/senate/ "
+            },
+            {
+                "state": "Nebraska",
+                "link": "https://nebraskalegislature.gov/senators/senator_list.php "
+            },
+            {
+                "state": "Nevada",
+                "link": "https://www.leg.state.nv.us/senate/ "
+            },
+            {
+                "state": "New Hampshire",
+                "link": "https://www.gencourt.state.nh.us/senate/ "
+            },
+            {
+                "state": "New Jersey",
+                "link": "https://www.njleg.state.nj.us/ "
+            },
+            {
+                "state": "New Mexico",
+                "link": "https://www.nmlegis.gov/members/Legislator_List?T=S  "
+            },
+            {
+                "state": "New York",
+                "link": "https://nysenate.gov  "
+            },
+            {
+                "state": "North Carolina",
+                "link": "https://www.ncleg.gov/senate  "
+            },
+            {
+                "state": "North Dakota",
+                "link": "https://www.legis.nd.gov/assembly/65-2017/members/senate  "
+            },
+            {
+                "state": "Ohio",
+                "link": "https://www.ohiosenate.gov/  "
+            },
+            {
+                "state": "Oklahoma",
+                "link": "https://oksenate.gov/ "
+            },
+            {
+                "state": "Oregon",
+                "link": "https://www.oregonlegislature.gov/senate "
+            },
+            {
+                "state": "Pennsylvania",
+                "link": "https://www.pasen.gov/ "
+            },
+            {
+                "state": "Rhode Island",
+                "link": "http://www.rilin.state.ri.us/senators/default.aspx "
+            },
+            {
+                "state": "South Carolina",
+                "link": "https://www.scstatehouse.gov/senate.php "
+            },
+            {
+                "state": "South Dakota",
+                "link": "https://sdlegislature.gov/legislators/default.aspx?Session=2020 "
+            },
+            {
+                "state": "Tennessee",
+                "link": "https://capitol.tn.gov/senate/  "
+            },
+            {
+                "state": "Texas",
+                "link": "https://senate.texas.gov/ "
+            },
+            {
+                "state": "Utah",
+                "link": "https://senate.utah.gov/ "
+            },
+            {
+                "state": "Vermont",
+                "link": "https://legislature.vermont.gov/senate/overview/2020 "
+            },
+            {
+                "state": "Virginia",
+                "link": "https://apps.senate.virginia.gov/Senator/index.php "
+            },
+            {
+                "state": "Washington",
+                "link": "http://leg.wa.gov/Senate/Pages/default.aspx "
+            },
+            {
+                "state": "West Virginia",
+                "link": "http://www.wvlegislature.gov/senate1/roster.cfm# "
+            },
+            {
+                "state": "Wisconsin",
+                "link": "https://legis.wisconsin.gov/senate/ "
+            },
+            {
+                "state": "Wyoming",
+                "link": "https://www.wyoleg.gov/Legislators/2020/S "
+            }
+        ]
+    }
+}

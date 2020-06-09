@@ -1,0 +1,85 @@
+{
+    "items": {
+        "texts": [
+            {
+                "text": "JUSTICE",
+                "code": "668366"
+            },
+            {
+                "text": "FLOYD",
+                "code": "55156"
+            },
+            {
+                "text": "ENOUGH",
+                "code": "55156"
+            },
+            {
+                "text": "Sign RISTUS",
+                "code": "50409"
+            },
+            {
+                "text": "Sign SEUDKP",
+                "code": "50409"
+            },
+            {
+                "text": "Sign UVNASF",
+                "code": "50409"
+            }
+        ],
+        "emails": [
+            {
+                "title": "Auto Email Minneapolis",
+                "link": "https://boost.avoice.info/minneapolis",
+                "description": "(George Floyd)"
+            },
+            {
+                "title": "Auto Email Louisville",
+                "link": "https://boost.avoice.info/louisville",
+                "description": "(Breonna Taylor)"
+            },
+            {
+                "title": "Auto Email Kentucky Attorney General, Mayor + Governor",
+                "link": "http://tinyurl.com/EmailBreonnaTaylor",
+                "description": "(Breonna Taylor)"
+            },
+            {
+                "title": "Auto Email NYC Officials to Reallocate Budget away from Police",
+                "link": "https://defund12.org/nyc",
+                "description": ""
+            },
+            {
+                "title": "Auto Email NYC City Council to Reject Mayor's Budget",
+                "link": "https://teddywilson.me/defund-nypd.html",
+                "description": ""
+            },
+            {
+                "title": "Auto Email John Hopkins",
+                "link": "https://actionnetwork.org/letters/stop-the-hopkins-private-police?source=direct_link",
+                "description": "Stop John Hopkins University from Deploying Private Police Force in Baltimore"
+            },
+            {
+                "title": "Auto Email Virginia",
+                "link": "https://actionnetwork.org/letters/demanding-legislation-to-support-black-communities-in-va?source=direct_link",
+                "description": "Demanding Support for Black Communities from Virginia Legislation"
+            }
+        ],
+        "phones": [
+            {
+                "contact": "Minneapolis Mayor's Office",
+                "phoneNumber": "6126732100"
+            },
+            {
+                "contact": "Minneapolis District Attorney",
+                "phoneNumber": "6123485550"
+            },
+            {
+                "contact": "Minneapolis PD Internal Affairs",
+                "phoneNumber": "6126733074"
+            },
+            {
+                "contact": "Louisville Mayor's Office",
+                "phoneNumber": "5025742003"
+            }
+        ]
+    }
+}
