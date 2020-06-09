@@ -1,5 +1,18 @@
 {
     "items": {
-        "small_business_funds": []
+        "small_business_funds": [
+            {
+                "name": "Helping Hand",
+                "link": "https://gf.me/u/x6jgha",
+                "description": ""
+            }
+        ],
+        "general_help": [
+            {
+                "name": "@paintworksnyc",
+                "description": "Vandalized stores in NYC can reach out to @paintworksnyc for free help",
+                "link": "https://www.instagram.com/paintworksnyc/"
+            }
+        ]
     }
 }
