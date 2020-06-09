@@ -1,8 +1,28 @@
 {
-    "items": {
-        "organizations": [],
-        "protest_funds": [],
-        "victim_funds": [],
-        "small_business_funds": []
-    }
+    "items": [
+        {
+            "name": "Systemic Racism Explained",
+            "link": "https://youtu.be/YrHIQIO_bdQ "
+        },
+        {
+            "name": "Letters for Black Lives",
+            "link": "https://lettersforblacklives.com/ "
+        },
+        {
+            "name": "Chinese Terminology for BLM",
+            "link": "https://www.instagram.com/p/CA8xVwZJoY1/ "
+        },
+        {
+            "name": "Antiracist Allyship Starter Pack",
+            "link": "https://docs.google.com/spreadsheets/d/1bUJrgX8vspyy7YttiEC2vD0DawrpPYiZs94V0ov7qZQ/ "
+        },
+        {
+            "name": "Books Against Racism",
+            "link": "https://www.bookbub.com/blog/nonfiction-books-about-race-fighting-racism?position=0&source=multicontent&target=title "
+        },
+        {
+            "name": "Children's Books on Race",
+            "link": "https://www.bookbub.com/blog/kids-books-about-race?position=2&source=multicontent&target=title "
+        }
+    ]
 }
